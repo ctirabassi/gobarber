@@ -1,7 +1,6 @@
 .vscode
 node_modules
 nodemon.json
-package.json
 tmp
 yarn.lock
 node_modules
